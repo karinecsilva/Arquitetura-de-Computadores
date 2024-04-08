@@ -18,7 +18,7 @@ Luan Masao Hirahata | Github: https://github.com/MasaoLH ,
 
 Karine Costa Silva | Github: https://github.com/karinecsilva ,
 
-EveraldoSantiago | Github: http://github.com/adersan ,
+Aderval Santiago | Github: http://github.com/adersan ,
 
 Artur Miranda | Github: https://github.com/Dakorte ,
 
