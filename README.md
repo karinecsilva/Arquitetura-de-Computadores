@@ -11,6 +11,8 @@ https://github.com/victorfernn/Atv-arquitetura-de-computadores
 Atividade 3 Kahoot
 https://create.kahoot.it/share/quiz-arquitetura-de-computadores/b65284bd-ac10-4d5f-a6a8-ef72baac2135
 
+..............................................................................................................................................
+
 Alunos:
 Daniel Lacerda Melo | Github: https://github.com/DLacerdadev ,
 
